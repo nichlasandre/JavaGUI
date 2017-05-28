@@ -1,0 +1,9 @@
+package dev.nichlasandre.tilegame.gfx;
+
+public class ImageLoader {
+	
+	public static BufferedImage loadImage(String path) {
+		
+	}
+
+}
