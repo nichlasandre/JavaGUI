@@ -6,7 +6,7 @@ public class Launcher {
 
 	public static void main(String[] args) {
 		
-		Game game = new Game("TileGame!", 640, 640);
+		Game game = new Game("TileGame!", 512, 512);
 		game.start();
 		
 	}
